@@ -1,3 +1,9 @@
 body {
     background-color: cadetblue;
 }
+
+p {
+    font-family: 'Amita', cursive;
+    font-size: 30px;
+    padding: 40px;
+}
